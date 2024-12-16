@@ -1,0 +1,50 @@
+{
+    "data": {
+        "multivalue": true,
+        "master": "sku",
+        "values": [
+            {
+                "id": "6",
+                "name": "AL--OTR--ND--ND",
+                "description": "Genérico - Alarma Otros",
+                "archived": false,
+                "leadTime": 0,
+                "serialized": false,
+                "nonSerializedCpe": false,
+                "equivalent": "AL--OTR--ND--ND",
+                "equivalentDescription": "Genérico - Alarma Otros",
+                "technology": "AL",
+                "technologyDescription": "ALARMAS EXTERNAS",
+                "tv": false,
+                "broadband": false,
+                "projectAttributes": {
+                    "alarmType": "OTROS",
+                    "nonSerializedCpe": "false"
+                }
+            },
+            {
+                "id": "5",
+                "name": "AL--MOD--REC--ND--ND",
+                "description": "Genérico - Alarma Falla de módulo rectificador",
+                "archived": false,
+                "leadTime": 0,
+                "serialized": false,
+                "nonSerializedCpe": false,
+                "equivalent": "AL--MOD--REC--ND--ND",
+                "equivalentDescription": "Genérico - Alarma Falla de módulo rectificador",
+                "technology": "AL",
+                "technologyDescription": "ALARMAS EXTERNAS",
+                "tv": false,
+                "broadband": false,
+                "projectAttributes": {
+                    "alarmType": "OTROS",
+                    "nonSerializedCpe": "false"
+                }
+            }
+        ]
+    },
+    "totalPages": 1,
+    "totalElements": 2,
+    "page": 0,
+    "size": 50
+}
